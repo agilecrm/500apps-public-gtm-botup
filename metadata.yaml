@@ -1,9 +1,7 @@
-homepage: "https://pushninja.com"
+homepage: "https://botup.com"
 documentation: ""
 versions:
   # Latest version
-  - sha: 4d93eb730943f4b3d508a1d83202363a4f0776dd
-    changeNotes: Added the helptext and changed the label.
-  # Older versions
-  - sha: 9671822bd1a72946803f671ddc8402e571ba30b6
-    changeNotes: Fixed the gtm url.
+  - sha: 677215428ae4b19a5cadf611a216fc67688ed7f9
+    changeNotes: Added the license and template files.
+ 
