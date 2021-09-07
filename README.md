@@ -1,12 +1,12 @@
 # Botup
-[Get Started](https://infinity.500apps.com/Botup) with with [Botup](https://botup.com)
+[Get Started](https://infinity.500apps.com/botup) with with [Botup](https://botup.com)
 
 A powerful platform to build chatbots for your teams on Facebook, Slack, WhatsApp, SMS, and Website.
 Understand user behavior on the website with event triggers for each user event like Create flow, create Bot etc and use these triggers to create powerful automation campaigns.
 As the customer base grows from various locations, there’s a wide scope for business growth. Botup has the capability to update all your operations and make sure that you reach your customers on time.
 Botup serves you the best with easy setup options and enables advanced features to never miss anything that your target audience wanted. Target the locations, capture the leads, and grow your network to the corners of the world.
 
-- [Get Started](https://infinity.500apps.com/Botup) with your web push notification delivery with [Botup](https://Botup.com)
+- [Get Started](https://infinity.500apps.com/botup) with a powerful platform to build chatbots for your teams on Facebook, Slack, WhatsApp, SMS, and Website.[Botup](https://botup.com)
 
 
 - Sign in to your Google account.
