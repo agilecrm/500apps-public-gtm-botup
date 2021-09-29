@@ -33,14 +33,11 @@ Once you’re back in GTM’s home, click on the Publish button to apply the cha
     ### Support 
       Contact our support team through “Live Chat” or “Help us improve” options through our    application.
 
-![alt text]
-(https://drive.ninjacapture.com/HYS2CsEMGNIBwC4FcBOBTAtPAjBgzNngBwYCs2A7HgHRxIBGANiNNaQAzvxwDO1A9igDmAehABbSELQiATOwAseIA?type=widget) 
+![alt text](https://infinity.500apps.com/img/botup/GTM-Image-1.png)
 
-![alt text]
-(https://drive.ninjacapture.com/HYS2CsEMGNIBwC4FcBOBTAtPAjBgzNngBwYCs2A7HgHRxIBGANiNNaQAzvxwDO1A9igDmAehABbSELQiATOwAs2IA?type=widget)
+![alt text](https://infinity.500apps.com/img/botup/GTM-Image-2.png)
 
-![alt text]
-(https://drive.ninjacapture.com/HYS2CsEMGNIBwC4FcBOBTAtAR0hgjAMx4YCsADAOwB0cSARgDYjTaRXlnxwDOVA9igDmAehABbSILTCATHgAc8oA?type=widget) 
+![alt text](https://infinity.500apps.com/img/botup/GTM-Image-3.png)
 
 Alternatively, you can contact us through mail at feedback@500apps.com
 Report a bug, file a feature request or send a pull request in the issue tracker.
