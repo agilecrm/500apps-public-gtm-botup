@@ -1,9 +1,9 @@
 homepage: "https://botup.com"
 documentation: ""
 versions:
-  # Latest versione6d4256ec2c6a8c212b626b09ad13df5441929f8
+  # Latest version
+  - sha: 7594892e6b6c15f715a477b2a5a53ac358cedcbf
+    changeNotes: Added the test case.
+  # Old version
   - sha: e6d4256ec2c6a8c212b626b09ad13df5441929f8
     changeNotes: Added the read me file.
-  # Old version
-    - sha: becbd2c8b9466ca8a13c451247f02e1fcd540385
-    changeNotes: Added the license and template files.
