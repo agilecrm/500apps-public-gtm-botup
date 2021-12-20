@@ -2,9 +2,9 @@
 
 [Get Started](https://infinity.500apps.com/botup) with with [Botup](https://botup.com)
 
-A powerful platform to build chat bots for your teams on Facebook, Slack, WhatsApp, SMS, and Websites. Create flows and run a bot to respond swiftly to your consumers thereby enabling powerful automation campaigns. As your customer base grows from various locations, there's a wide scope for business growth. Bot up has the capability to scale your operations and make sure that you respond to your customers on time. Botup serves best with simple setup options itself. Use the advanced features to explore the all-in-one bot which is capable of handling all your social media handle responses at one go. Enjoy the additional benefit of capturing the leads and grow your network multi fold.
+A powerful platform to build chat bots for your teams on Facebook, WhatsApp, SMS, and Websites. Create flows and run a bot to respond swiftly to your consumers thereby enabling powerful automation campaigns. As your customer base grows from various locations, there's a wide scope for business growth. Bot up has the capability to scale your operations and make sure that you respond to your customers on time. Botup serves best with simple setup options itself. Use the advanced features to explore the all-in-one bot which is capable of handling all your social media handle responses at one go. Enjoy the additional benefit of capturing the leads and grow your network multi fold.
 
-Get Started with a powerful platform to build chat bots for your teams on Facebook, Slack, SMS, and Website.
+Get Started with a powerful platform to build chat bots for your teams on Facebook, SMS, and Website.
 
 1. Sign in to your Google account.
 
@@ -18,7 +18,7 @@ Get Started with a powerful platform to build chat bots for your teams on Facebo
 
 6. You will get a container with a code snippet. Copy the code and paste it into every page of your site in the recommended places. Click Ok to close the code snippet box and finish setting up the GTM manager and your first container.
 
-- [Get Started](https://infinity.500apps.com/botup) with a powerful platform to build chatbots for your teams on Facebook, Slack, WhatsApp, SMS, and Website.[Botup](https://botup.com)
+- [Get Started](https://infinity.500apps.com/botup) with a powerful platform to build chatbots for your teams on Facebook, WhatsApp, SMS, and Website.[Botup](https://botup.com)
 
 ### Installation
 

@@ -13,7 +13,7 @@ ___INFO___
   "id": "cvt_temp_public_id",
   "version": 1,
   "securityGroups": [],
-  "displayName": "Botup",
+  "displayName": "500apps - Botup",
   "categories": ["CHAT"],
   "brand": {
     "id": "brand_dummy",
@@ -44,11 +44,12 @@ ___SANDBOXED_JS_FOR_WEB_TEMPLATE___
 // Enter your template code here.
 const log = require('logToConsole');
 const encodeUriComponent = require('encodeUriComponent');
+const encodeUri = require('encodeUri');
 const injectScript = require('injectScript');
 log('data =', data);
 const api_key = encodeUriComponent(data.api_key);
 
-const trackingUrl = 'https://gtm.500apps.com/gtm/botup/' + api_key +'.js';
+const trackingUrl = encodeUri('https://gtm.500apps.com/gtm/botup/' + api_key +'.js');
 injectScript(trackingUrl, data.gtmOnSuccess, data.gtmOnFailure);
 data.gtmOnSuccess();
 
