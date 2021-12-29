@@ -2,8 +2,9 @@ homepage: "https://botup.com"
 documentation: ""
 versions:
   # Latest version
+  - sha: 1151328b52bca46ec6ded1160f9ee7d175bc46c6
+    changeNotes: Change template code.
+  # Old version
   - sha: de0ee7be1e55557a7be720433b31391cd7682166
     changeNotes: Added the read me file and template code change.
-  # Old version
-  - sha: 7594892e6b6c15f715a477b2a5a53ac358cedcbf
-    changeNotes: Added the test case.
+  
