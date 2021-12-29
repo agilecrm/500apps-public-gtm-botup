@@ -44,12 +44,11 @@ ___SANDBOXED_JS_FOR_WEB_TEMPLATE___
 // Enter your template code here.
 const log = require('logToConsole');
 const encodeUriComponent = require('encodeUriComponent');
-const encodeUri = require('encodeUri');
 const injectScript = require('injectScript');
 log('data =', data);
 const api_key = encodeUriComponent(data.api_key);
 
-const trackingUrl = encodeUri('https://gtm.500apps.com/gtm/botup/' + api_key +'.js');
+const trackingUrl = 'https://gtm.500apps.com/gtm/botup/' + api_key +'.js';
 injectScript(trackingUrl, data.gtmOnSuccess, data.gtmOnFailure);
 data.gtmOnSuccess();
 
